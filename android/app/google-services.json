@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "913980499664",
+    "project_id": "todolist2-a48b6",
+    "storage_bucket": "todolist2-a48b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913980499664:android:3b30804816a14abb3fa0d5",
+        "android_client_info": {
+          "package_name": "br.com.daniel.firebase_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913980499664-pu8i1vjg5n3m00nd94n0uincqqonqkb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO0EeLmubX2TJHiX2aWC1NXQHGzvv-YGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913980499664-pu8i1vjg5n3m00nd94n0uincqqonqkb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
